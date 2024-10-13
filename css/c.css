@@ -1,6 +1,5 @@
-#navList{
-    list-style: none;
-}
-body{
-    color: aqua;
+#content{
+    display: grid;
+    grid-template-areas: 
+    '';
 }
